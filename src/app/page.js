@@ -102,7 +102,7 @@ export default function EnergyDashboard() {
             </h1>
             
             <p className="text-xl text-slate-300">
-              EcoVolt delivers comprehensive energy forecasting powered by advanced AI. Transform your grid operations with real-time predictions for wind, solar, and demand patterns.
+              AI-Driven Renewable energy forecasting for smart grid management delivers comprehensive energy forecasting powered by advanced AI. Transform your grid operations with real-time predictions for wind, solar, and demand patterns.
             </p>
 
             <div className="flex space-x-4">
